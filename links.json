@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Wordle",
+    "url": "https://web.archive.org/web/20250409011241/https://www.nytimes.com/games/wordle/index.html",
+    "icon": "https://www.nytimes.com/games-assets/v2/metadata/wordle-apple-touch-icon.png?v=v2504091145",
+    "winCheck": {
+      "type": "characterData",
+      "newValue": "Congratulations!",
+      "oldValue": null
+    },
+    "loseCheck": {
+      "type": "characterData",
+      "newValue": "Thanks for playing today!",
+      "oldValue": null
+    }
+  },
+  {
+    "name": "Wordle",
+    "url": "https://web.archive.org/web/20250407092409/https://www.nytimes.com/games/wordle/index.html",
+    "icon": "https://www.nytimes.com/games-assets/v2/metadata/wordle-apple-touch-icon.png?v=v2504091145",
+    "winCheck": {
+      "type": "characterData",
+      "newValue": "Congratulations!",
+      "oldValue": null
+    },
+    "loseCheck": {
+      "type": "characterData",
+      "newValue": "Thanks for playing today!",
+      "oldValue": null
+    }
+  }
+]
