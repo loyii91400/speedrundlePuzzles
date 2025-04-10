@@ -24,5 +24,16 @@
       "text": "Congratulations!"
     },
     "loseCheck": null
+  },
+  {
+    "name": "Strands",
+    "url": "https://www.nytimes.com/games/strands",
+    "icon": "https://www.nytimes.com/games-assets/v2/metadata/strands-apple-touch-icon.png?v=v2504101308",
+    "winCheck": {
+      "mutationType": "",
+      "query": "h3",
+      "text": "NEXT PUZZLE IN"
+    },
+    "loseCheck": null
   }
 ]
