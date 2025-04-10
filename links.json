@@ -28,5 +28,20 @@
       "newValue": "Thanks for playing today!",
       "oldValue": null
     }
+  },
+  {
+    "name": "Mini",
+    "url": "https://web.archive.org/web/20250410055302/https://www.nytimes.com/crosswords/game/mini",
+    "icon": "https://www.nytimes.com/games-assets/v2/metadata/nyt-apple-touch-icon.png?v=v2504091256",
+    "winCheck": {
+      "type": "characterData",
+      "newValue": "Congratulations!",
+      "oldValue": null
+    },
+    "loseCheck": {
+      "type": "",
+      "newValue": "",
+      "oldValue": null
+    }
   }
 ]
