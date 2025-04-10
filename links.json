@@ -1,47 +1,28 @@
 [
   {
     "name": "Wordle",
-    "url": "https://web.archive.org/web/20250409011241/https://www.nytimes.com/games/wordle/index.html",
+    "url": "https://www.nytimes.com/games/wordle/index.html",
     "icon": "https://www.nytimes.com/games-assets/v2/metadata/wordle-apple-touch-icon.png?v=v2504091145",
     "winCheck": {
-      "type": "characterData",
-      "newValue": "Congratulations!",
-      "oldValue": null
+      "mutationType": "characterData",
+      "query": "h1",
+      "text": "Congratulations!"
     },
     "loseCheck": {
-      "type": "characterData",
-      "newValue": "Thanks for playing today!",
-      "oldValue": null
-    }
-  },
-  {
-    "name": "Wordle",
-    "url": "https://web.archive.org/web/20250407092409/https://www.nytimes.com/games/wordle/index.html",
-    "icon": "https://www.nytimes.com/games-assets/v2/metadata/wordle-apple-touch-icon.png?v=v2504091145",
-    "winCheck": {
-      "type": "characterData",
-      "newValue": "Congratulations!",
-      "oldValue": null
-    },
-    "loseCheck": {
-      "type": "characterData",
-      "newValue": "Thanks for playing today!",
-      "oldValue": null
+      "mutationType": "characterData",
+      "query": "h1",
+      "text": "Thanks for playing today!"
     }
   },
   {
     "name": "Mini",
-    "url": "https://web.archive.org/web/20250410055302/https://www.nytimes.com/crosswords/game/mini",
+    "url": "https://www.nytimes.com/crosswords/game/mini",
     "icon": "https://www.nytimes.com/games-assets/v2/metadata/nyt-apple-touch-icon.png?v=v2504091256",
     "winCheck": {
-      "type": "characterData",
-      "newValue": "Congratulations!",
-      "oldValue": null
+      "mutationType": "characterData",
+      "query": "h1",
+      "text": "Congratulations!"
     },
-    "loseCheck": {
-      "type": "",
-      "newValue": "",
-      "oldValue": null
-    }
+    "loseCheck": null
   }
 ]
