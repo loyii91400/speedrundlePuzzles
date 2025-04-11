@@ -35,5 +35,20 @@
       "text": "NEXT PUZZLE IN"
     },
     "loseCheck": null
+  },
+  {
+    "name": "Connections",
+    "url": "https://www.nytimes.com/games/connections",
+    "icon": "https://www.nytimes.com/games-assets/v2/metadata/connections-apple-touch-icon.png?v=v2504101308",
+    "winCheck": {
+      "mutationType": "",
+      "query": "h2",
+      "text": ["Perfect!", "Great!", "Solid!", "Phew!"]
+    },
+    "loseCheck": {
+      "mutationType": "",
+      "query": "h2",
+      "text": "Next Time!"
+    }
   }
 ]
