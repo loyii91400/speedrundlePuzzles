@@ -50,5 +50,31 @@
       "query": "h2",
       "text": "Next Time!"
     }
+  },
+  {
+    "name": "Wiki Game Daily",
+    "url": "https://www.thewikigamedaily.com",
+    "icon": "https://www.thewikigamedaily.com/favicon.png",
+    "winCheck": {
+      "mutationType": "",
+      "query": "h1",
+      "text": "Congratulations"
+    },
+    "loseCheck": null
+  },
+  {
+    "name": "Bandle",
+    "url": "https://bandle.app/daily",
+    "icon": "https://bandle.app/favicon.ico",
+    "winCheck": {
+      "mutationType": "",
+      "query": "div",
+      "text": "You got it!"
+    },
+    "loseCheck": {
+      "mutationType": "",
+      "query": "div",
+      "text": "Good effort!"
+    }
   }
 ]
